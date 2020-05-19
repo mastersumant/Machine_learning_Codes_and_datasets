@@ -4,5 +4,5 @@
 ## Part 0 - 10
 
 
-### Python an R 
+### Python and R 
 
